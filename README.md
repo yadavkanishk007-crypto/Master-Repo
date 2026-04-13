@@ -1,6 +1,6 @@
 # 🚀 My GitHub Projects
 
-> Auto-generated · **6** original · **0** forked
+> Auto-generated · **6** original · **0** forked · **6** public · **0** private
 
 ## 📌 Original Repositories
 

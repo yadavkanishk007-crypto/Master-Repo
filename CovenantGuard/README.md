@@ -1,6 +1,6 @@
 # CovenantGuard
 
-![Stars](https://img.shields.io/badge/stars-0-yellow) ![License](https://img.shields.io/badge/license-MIT%20License-green)
+![Public](https://img.shields.io/badge/visibility-public-brightgreen) ![Stars](https://img.shields.io/badge/stars-0-yellow) ![License](https://img.shields.io/badge/license-MIT%20License-green)
 
 > Its an risk evaluation software designed for LMA
 
@@ -8,6 +8,7 @@
 
 | Field        | Value |
 |--------------|-------|
+| 👁 Visibility | 🌐 Public |
 | ⭐ Stars      | 0 |
 | 🛠 Language  | N/A |
 | 🐛 Issues    | 0 |

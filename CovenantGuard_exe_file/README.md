@@ -1,6 +1,6 @@
 # CovenantGuard_exe_file
 
-![Stars](https://img.shields.io/badge/stars-0-yellow) ![License](https://img.shields.io/badge/license-Apache%20License%202.0-green)
+![Public](https://img.shields.io/badge/visibility-public-brightgreen) ![Stars](https://img.shields.io/badge/stars-0-yellow) ![License](https://img.shields.io/badge/license-Apache%20License%202.0-green)
 
 > This repo is to directly install CovenantGuard+ software using setup directly into your pc 
 
@@ -8,6 +8,7 @@
 
 | Field        | Value |
 |--------------|-------|
+| 👁 Visibility | 🌐 Public |
 | ⭐ Stars      | 0 |
 | 🛠 Language  | N/A |
 | 🐛 Issues    | 0 |

@@ -1,6 +1,6 @@
 # dinedeal
 
-![Language](https://img.shields.io/badge/language-TypeScript-blue) ![Stars](https://img.shields.io/badge/stars-1-yellow) 
+![Public](https://img.shields.io/badge/visibility-public-brightgreen) ![Language](https://img.shields.io/badge/language-TypeScript-blue) ![Stars](https://img.shields.io/badge/stars-1-yellow) 
 
 > No description provided.
 
@@ -8,6 +8,7 @@
 
 | Field        | Value |
 |--------------|-------|
+| 👁 Visibility | 🌐 Public |
 | ⭐ Stars      | 1 |
 | 🛠 Language  | TypeScript |
 | 🐛 Issues    | 0 |
