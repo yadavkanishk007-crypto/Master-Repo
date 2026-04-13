@@ -27,6 +27,8 @@ jobs:
 
       - name: Run script
         run: python generate_structure.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit changes
         run: |
