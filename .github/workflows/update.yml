@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      metadata: read
 
     steps:
       - name: Checkout repository
@@ -28,7 +29,7 @@ jobs:
       - name: Run script
         run: python generate_structure.py
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
 
       - name: Commit changes
         run: |
