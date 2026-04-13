@@ -16,7 +16,7 @@ import requests
 # Configuration
 # ──────────────────────────────────────────────
 
-USERNAME = "your-github-username"  # ← Change this
+USERNAME = "yadavkanishk007-crypto"  # ← Change this
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 PROTECTED_DIRS = {".github", ".git", "__pycache__", ".venv"}
 API_BASE = "https://api.github.com"
