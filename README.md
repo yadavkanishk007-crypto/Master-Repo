@@ -1,6 +1,6 @@
 # 🚀 My GitHub Projects
 
-> Auto-generated · **6** original · **0** forked · **6** public · **0** private
+> Auto-generated · **7** original · **0** forked · **7** public · **0** private
 
 ## 📌 Original Repositories
 
@@ -9,6 +9,14 @@
 > No description provided.
 
 ⭐ 1 · 🛠 TypeScript · [GitHub →](https://github.com/yadavkanishk007-crypto/dinedeal)
+
+---
+
+### 📁 [SwasthPHC](./SwasthPHC)
+
+> it is an augmented intelligence node working closely with swasthai actual system to work on primary health centers and collect there data and aware them where this will be working as a sister node of main swsthai system 
+
+⭐ 0 · 🛠 HTML · [GitHub →](https://github.com/yadavkanishk007-crypto/SwasthPHC)
 
 ---
 
