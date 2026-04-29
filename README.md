@@ -12,19 +12,19 @@
 
 ---
 
-### 📁 [SwasthPHC](./SwasthPHC)
-
-> it is an augmented intelligence node working closely with swasthai actual system to work on primary health centers and collect there data and aware them where this will be working as a sister node of main swsthai system 
-
-⭐ 0 · 🛠 HTML · [GitHub →](https://github.com/yadavkanishk007-crypto/SwasthPHC)
-
----
-
 ### 📁 [Master-Repo](./Master-Repo)
 
 > This is master repo consisting of all the readme's and links of other repos of mine simply working as a portfolio 
 
 ⭐ 0 · 🛠 Python · [GitHub →](https://github.com/yadavkanishk007-crypto/Master-Repo)
+
+---
+
+### 📁 [SwasthPHC](./SwasthPHC)
+
+> it is an augmented intelligence node working closely with swasthai actual system to work on primary health centers and collect there data and aware them where this will be working as a sister node of main swsthai system 
+
+⭐ 0 · 🛠 HTML · [GitHub →](https://github.com/yadavkanishk007-crypto/SwasthPHC)
 
 ---
 
