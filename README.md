@@ -1,6 +1,6 @@
 # 🚀 My GitHub Projects
 
-> Auto-generated · **7** original · **0** forked · **7** public · **0** private
+> Auto-generated · **8** original · **0** forked · **8** public · **0** private
 
 ## 📌 Original Repositories
 
@@ -9,6 +9,14 @@
 > No description provided.
 
 ⭐ 1 · 🛠 TypeScript · [GitHub →](https://github.com/yadavkanishk007-crypto/dinedeal)
+
+---
+
+### 📁 [Election-Navigator](./Election-Navigator)
+
+> A non-partisan, interactive web application that guides users through the entire election process — from voter registration to the final inauguration.
+
+⭐ 0 · 🛠 JavaScript · [GitHub →](https://github.com/yadavkanishk007-crypto/Election-Navigator)
 
 ---
 
