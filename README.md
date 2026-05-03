@@ -1,6 +1,6 @@
 # 🚀 My GitHub Projects
 
-> Auto-generated · **8** original · **0** forked · **8** public · **0** private
+> Auto-generated · **9** original · **0** forked · **9** public · **0** private
 
 ## 📌 Original Repositories
 
@@ -9,6 +9,14 @@
 > No description provided.
 
 ⭐ 1 · 🛠 TypeScript · [GitHub →](https://github.com/yadavkanishk007-crypto/dinedeal)
+
+---
+
+### 📁 [navigator2](./navigator2)
+
+> just for fun
+
+⭐ 0 · 🛠 JavaScript · [GitHub →](https://github.com/yadavkanishk007-crypto/navigator2)
 
 ---
 
