@@ -12,6 +12,14 @@
 
 ---
 
+### 📁 [Master-Repo](./Master-Repo)
+
+> This is master repo consisting of all the readme's and links of other repos of mine simply working as a portfolio 
+
+⭐ 0 · 🛠 Python · [GitHub →](https://github.com/yadavkanishk007-crypto/Master-Repo)
+
+---
+
 ### 📁 [navigator2](./navigator2)
 
 > just for fun
@@ -25,14 +33,6 @@
 > A non-partisan, interactive web application that guides users through the entire election process — from voter registration to the final inauguration.
 
 ⭐ 0 · 🛠 JavaScript · [GitHub →](https://github.com/yadavkanishk007-crypto/Election-Navigator)
-
----
-
-### 📁 [Master-Repo](./Master-Repo)
-
-> This is master repo consisting of all the readme's and links of other repos of mine simply working as a portfolio 
-
-⭐ 0 · 🛠 Python · [GitHub →](https://github.com/yadavkanishk007-crypto/Master-Repo)
 
 ---
 
