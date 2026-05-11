@@ -1,16 +1,8 @@
 # 🚀 My GitHub Projects
 
-> Auto-generated · **9** original · **0** forked · **9** public · **0** private
+> Auto-generated · **8** original · **0** forked · **8** public · **0** private
 
 ## 📌 Original Repositories
-
-### 📁 [dinedeal](./dinedeal)
-
-> No description provided.
-
-⭐ 1 · 🛠 TypeScript · [GitHub →](https://github.com/yadavkanishk007-crypto/dinedeal)
-
----
 
 ### 📁 [Master-Repo](./Master-Repo)
 
