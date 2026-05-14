@@ -1,8 +1,16 @@
 # 🚀 My GitHub Projects
 
-> Auto-generated · **8** original · **0** forked · **8** public · **0** private
+> Auto-generated · **9** original · **0** forked · **9** public · **0** private
 
 ## 📌 Original Repositories
+
+### 📁 [GOD-s-EYE](./GOD-s-EYE)
+
+> GOD's EYE  is a high-performance, Indian-made Urban Intelligence and Surveillance system designed for smart city command centers. It utilizes state-of-the-art Computer Vision and Predictive Analytics to monitor urban spaces, detect incidents in real-time, and forecast crowd risks.
+
+⭐ 0 · 🛠 Python · [GitHub →](https://github.com/yadavkanishk007-crypto/GOD-s-EYE)
+
+---
 
 ### 📁 [Master-Repo](./Master-Repo)
 
