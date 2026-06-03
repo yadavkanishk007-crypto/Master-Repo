@@ -1,6 +1,6 @@
 # Master-Repo
 
-![Public](https://img.shields.io/badge/visibility-public-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) ![Stars](https://img.shields.io/badge/stars-0-yellow) 
+![Public](https://img.shields.io/badge/visibility-public-brightgreen) ![Language](https://img.shields.io/badge/language-TeX-blue) ![Stars](https://img.shields.io/badge/stars-0-yellow) 
 
 > This is master repo consisting of all the readme's and links of other repos of mine simply working as a portfolio 
 
@@ -10,7 +10,7 @@
 |--------------|-------|
 | 👁 Visibility | 🌐 Public |
 | ⭐ Stars      | 0 |
-| 🛠 Language  | Python |
+| 🛠 Language  | TeX |
 | 🐛 Issues    | 0 |
 | 📜 License   | N/A |
 

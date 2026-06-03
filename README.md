@@ -4,19 +4,19 @@
 
 ## 📌 Original Repositories
 
+### 📁 [Master-Repo](./Master-Repo)
+
+> This is master repo consisting of all the readme's and links of other repos of mine simply working as a portfolio 
+
+⭐ 0 · 🛠 TeX · [GitHub →](https://github.com/yadavkanishk007-crypto/Master-Repo)
+
+---
+
 ### 📁 [GOD-s-EYE](./GOD-s-EYE)
 
 > GOD's EYE  is a high-performance, Indian-made Urban Intelligence and Surveillance system designed for smart city command centers. It utilizes state-of-the-art Computer Vision and Predictive Analytics to monitor urban spaces, detect incidents in real-time, and forecast crowd risks.
 
 ⭐ 0 · 🛠 Python · [GitHub →](https://github.com/yadavkanishk007-crypto/GOD-s-EYE)
-
----
-
-### 📁 [Master-Repo](./Master-Repo)
-
-> This is master repo consisting of all the readme's and links of other repos of mine simply working as a portfolio 
-
-⭐ 0 · 🛠 Python · [GitHub →](https://github.com/yadavkanishk007-crypto/Master-Repo)
 
 ---
 
