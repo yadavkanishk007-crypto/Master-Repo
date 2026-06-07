@@ -1,8 +1,24 @@
 # 🚀 My GitHub Projects
 
-> Auto-generated · **9** original · **0** forked · **9** public · **0** private
+> Auto-generated · **11** original · **0** forked · **11** public · **0** private
 
 ## 📌 Original Repositories
+
+### 📁 [AURAGRID](./AURAGRID)
+
+> State-of-the-art Real-time Smart Grid Forecasting & Ingestion Engine. Designed specifically for lower-tier and higher-tier Indian cities to optimize power distribution and prevent cascading failures.
+
+⭐ 0 · 🛠 Python · [GitHub →](https://github.com/yadavkanishk007-crypto/AURAGRID)
+
+---
+
+### 📁 [AURAGRID_MASTER_REPO](./AURAGRID_MASTER_REPO)
+
+> No description provided.
+
+⭐ 0 · 🛠 TypeScript · [GitHub →](https://github.com/yadavkanishk007-crypto/AURAGRID_MASTER_REPO)
+
+---
 
 ### 📁 [Master-Repo](./Master-Repo)
 
