@@ -4,19 +4,19 @@
 
 ## 📌 Original Repositories
 
-### 📁 [AURAGRID_MASTER_REPO](./AURAGRID_MASTER_REPO)
-
-> No description provided.
-
-⭐ 0 · 🛠 TypeScript · [GitHub →](https://github.com/yadavkanishk007-crypto/AURAGRID_MASTER_REPO)
-
----
-
 ### 📁 [Master-Repo](./Master-Repo)
 
 > This is master repo consisting of all the readme's and links of other repos of mine simply working as a portfolio 
 
 ⭐ 0 · 🛠 TeX · [GitHub →](https://github.com/yadavkanishk007-crypto/Master-Repo)
+
+---
+
+### 📁 [AURAGRID_MASTER_REPO](./AURAGRID_MASTER_REPO)
+
+> No description provided.
+
+⭐ 0 · 🛠 TypeScript · [GitHub →](https://github.com/yadavkanishk007-crypto/AURAGRID_MASTER_REPO)
 
 ---
 
