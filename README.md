@@ -1,8 +1,16 @@
 # 🚀 My GitHub Projects
 
-> Auto-generated · **11** original · **0** forked · **11** public · **0** private
+> Auto-generated · **12** original · **0** forked · **12** public · **0** private
 
 ## 📌 Original Repositories
+
+### 📁 [Dental](./Dental)
+
+> Mockup prototype for dental clients 
+
+⭐ 0 · 🛠 JavaScript · [GitHub →](https://github.com/yadavkanishk007-crypto/Dental)
+
+---
 
 ### 📁 [Master-Repo](./Master-Repo)
 
