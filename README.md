@@ -4,19 +4,19 @@
 
 ## 📌 Original Repositories
 
-### 📁 [Dental](./Dental)
-
-> Mockup prototype for dental clients 
-
-⭐ 0 · 🛠 JavaScript · [GitHub →](https://github.com/yadavkanishk007-crypto/Dental)
-
----
-
 ### 📁 [Master-Repo](./Master-Repo)
 
 > This is master repo consisting of all the readme's and links of other repos of mine simply working as a portfolio 
 
 ⭐ 0 · 🛠 TeX · [GitHub →](https://github.com/yadavkanishk007-crypto/Master-Repo)
+
+---
+
+### 📁 [Dental](./Dental)
+
+> Mockup prototype for dental clients 
+
+⭐ 0 · 🛠 JavaScript · [GitHub →](https://github.com/yadavkanishk007-crypto/Dental)
 
 ---
 
